@@ -11,7 +11,7 @@
 | ... | | | | | | | | | | | | | | |
 
 
-
+https://www.reddit.com/r/LocalLLaMA/comments/18hmimu/mixtral_8x7b_q4_giving_poor_results_am_i_doing/ 
 
  embed this ingo in tabular format:
 
